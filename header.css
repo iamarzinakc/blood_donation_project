@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+  }
+.header{
+    background-color:#7c4f4f;
+    padding-top:10px;
+    height:55px;
+    line-height:55px;
+    font-size: 25px;
+    color: rgb(224, 222, 222);
+    
+    width:100%;
+   
+}
+.blood1{
+    float:left;
+    height:50px;
+
+  }

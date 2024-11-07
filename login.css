@@ -1,0 +1,33 @@
+.one{
+    background-color: #cc5050;
+    border: 1px solid #cc5050;
+    border-radius: 15px;
+    
+    
+    color:white; 
+    margin: auto;
+    padding: 19px 15px 18px;
+    width: 295px;
+    position:relative;
+    top:100px;
+    
+}
+
+
+input[type="text"]{
+    box-shadow:2px 2px 5px;
+    width:250px;
+    height:30px;
+    border-radius: 10px;
+}
+
+input[type="password"]{
+    box-shadow:2px 2px 5px;
+    width:250px;
+    height:30px;
+    border-radius:10px;
+}
+
+body{
+    background-image:url( "blood3.jpg");
+}
